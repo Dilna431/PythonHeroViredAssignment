@@ -9,7 +9,7 @@ This repository contains three Python scripts:
 
 2.passwordcheck.py: Validates the strength of a password based on predefined criteria.
 
-3.monitor_cpy.py: Monitors changes in a directory and copies updated or new files to a specified destination directory.
+3.monitor_cpy.py: Monitors real-time CPU usage and provides alerts if usage exceeds a predefined threshold
 
 
 ## Scripts
